@@ -1,12 +1,12 @@
 ---
-title: Person Template
-category: Stub
+title: Gala Lindvall
+category: Person
 categories:
     - Active
 ---
 <!--img src="img/20YY-Person-Template.jpeg" style="width: 40%;" align="right"-->
 
-# Person Template
+# Person
 
 ### Names
 - Gala Lindvall

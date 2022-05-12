@@ -1,2 +1,0 @@
-# Kitsap Forest Theater
-

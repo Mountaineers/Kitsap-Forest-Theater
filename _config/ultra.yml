@@ -1,14 +1,8 @@
-theme: jekyll-theme-slate
 
-name: Kitsap Forest Theater
-title: Kitsap Forest Theater
 remote_theme: ronv/ultra
 
 livereload: true
-#baseurl:
-
-plugins:
-  - jekyll-seo-tag
+baseurl: /History
 
 defaults:
   - scope:

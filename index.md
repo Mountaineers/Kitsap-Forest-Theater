@@ -1,4 +1,24 @@
-## Welcome to GitHub Pages
+---
+title: Home
+category: List
+---
+# Home
+### Kitsap Forest Theatre
+
+- [About](About) this site
+- [History](History)
+
+### [Buildings](Buildings) / Structures
+
+### [Areas](Areas) / Items / Points of Interest
+
+### See Also
+
+- Research [Sources](Sources)
+- Wikipedia articles
+
+
+## GitHub Pages Help
 
 You can use the [editor on GitHub](https://github.com/Mountaineers/Kitsap-Forest-Theater/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 

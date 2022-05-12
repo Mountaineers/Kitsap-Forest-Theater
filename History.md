@@ -5,6 +5,13 @@ category: Document
 # Kitsap Forest Theater History
 
 
+### 1917
+
+THE KITSAP LODGE
+
+When we think of the Kitsap Lodge, those of us who love it...<sup>[ma17][]</sup>
+
+
 ### 1916
 
 A new departure of the Mountaineers during the present year was the purchase of seventy-four acres of upland in Kitsap County for a rhododendron preserve... <sup>[ma16][]</sup>
@@ -35,3 +42,4 @@ But over and above all its other attractions the place is per-eminently adapted 
 
 
 [ma16]: Mountaineer-Annual#1916
+[ma17]: Mountaineer-Annual#1917

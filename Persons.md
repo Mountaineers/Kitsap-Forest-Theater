@@ -16,14 +16,8 @@ category: List
 
 ### Lists / Roles
 
-* Chair](Chair)
+* [Chair](Chair)
 * [Committee](Committee)
 * [Cook](Cook)
-* [Driver](Driver)
-* [Fossil](Fossil)
 * [Historian](Historian)
-* Ski [Instructor](Instructor)
-* [Mechanic](Mechanic)
-* Tow [Operator](Operator)
 * [Permanent Resident](Permanent-Resident)
-

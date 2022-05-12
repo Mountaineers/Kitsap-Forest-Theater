@@ -9,6 +9,8 @@ category: Document
 
 A new departure of the Mountaineers during the present year was the purchase of seventy-four acres of upland in Kitsap County for a rhododendron preserve.[ma16][]
 
+----
+
 #### OUR NEW RHODODENDRON PARK
 
 by CHAS. ALBERTSON

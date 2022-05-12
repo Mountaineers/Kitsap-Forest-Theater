@@ -8,5 +8,5 @@ The research on this site has been gathered from personal knowledge, interviews,
 
 | Publish Year | Title | Author |
 | ------------ | ----- | ------ |
-| 1935-1994 | [Mountaineer Annual](Mountaineer-Annual) | Various
+| 1916-1994 | [Mountaineer Annual](Mountaineer-Annual) | Various
 

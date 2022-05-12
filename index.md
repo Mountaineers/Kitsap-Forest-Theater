@@ -6,21 +6,22 @@ category: List
 ### Kitsap Forest Theatre
 
 - [About](About) this site
+- [Areas](Areas) / Points of Interest
+- [Buildings](Buildings) / Structures
 - [History](History)
-
-### [Buildings](Buildings) / Structures
-
-### [Areas](Areas) / Items / Points of Interest
+- [Persons](Persons)
 
 ### See Also
 
 - Research [Sources](Sources)
-- Wikipedia articles
+- Online articles
 
 
 ----
 
 #### GitHub Pages Help
+
+(this can be deleted at any time it's not useful to someone with a last name of "Lindvall".)
 
 You can use the [editor on GitHub](https://github.com/Mountaineers/Kitsap-Forest-Theater/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
@@ -52,4 +53,4 @@ For more details see [Basic writing and formatting syntax](https://docs.github.c
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/).
+Having trouble with Pages? Check out the [documentation](https://docs.github.com/categories/github-pages-basics/).

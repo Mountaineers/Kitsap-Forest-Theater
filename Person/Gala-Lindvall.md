@@ -3,8 +3,10 @@ title: Gala Lindvall
 category: Person
 categories:
     - Active
+    - Chair
+    - Committee
 ---
-<!--img src="img/20YY-Person-Template.jpeg" style="width: 40%;" align="right"-->
+<!--img src="/Kitsap-Forest-Theater/img/20YY-Gala-Lindvall.jpeg" style="width: 40%;" align="right"-->
 
 # Person
 
@@ -13,8 +15,7 @@ categories:
 
 ### Events
 - Birth Year:
-- First year at KFT: YYYY
-- Death Year: (if applicable)
+- First year at KFT: 19YY
 
 {% include roles.html %}
 ### Known For

@@ -15,4 +15,4 @@ Custodians of Kitsap Forest Theater History
 
 ### See Also
 
-* [Sources](Sources)
+* [Sources](../Source)

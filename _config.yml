@@ -5,7 +5,7 @@ title: Kitsap Forest Theater
 remote_theme: ronv/ultra
 
 livereload: true
-#baseurl:
+baseurl: /Kitsap-Forest-Theater
 
 plugins:
   - jekyll-seo-tag

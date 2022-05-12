@@ -4,6 +4,9 @@ category: Document
 ---
 # Kitsap Forest Theater History
 
+Our history, as told by our [Historians](Person/Historian).
+
+----
 
 ### 1917
 
@@ -11,6 +14,7 @@ THE KITSAP LODGE
 
 When we think of the Kitsap Lodge, those of us who love it...<sup>[ma17][]</sup>
 
+----
 
 ### 1916
 
@@ -41,5 +45,5 @@ The southwest corner of the property touches the splashing, moss-banked, fern-fr
 But over and above all its other attractions the place is per-eminently adapted for a rhododendron park. It lies in the sun-and-rain belt where our state flower grows so luxuriantly and so wondrously beautiful. A considerable part of the old ranch has been simply slashed over and up through the tangle of down-lying stems and branches have grown splendid vigorous clumps of rhododendron, while in some more open spaces the bushes are shapely and symmetrical. Green is their foliage throughout the year and in the spring time they are covered with large clusters of daintily tinted flowers of rare delight. In the undisturbed second growth forest, the bushes struggle upward with irregular crooked stems to get the light and ofttime end in a single bouquet-burst of delicate pink glory twenty-five feet from mother earth. They grow all over the tract in the darkling as well as the clearer spaces and there may they be protected throughout the years to come.
 
 
-[ma16]: Mountaineer-Annual#1916
-[ma17]: Mountaineer-Annual#1917
+[ma16]: Source/Mountaineer-Annual#1916
+[ma17]: Source/Mountaineer-Annual#1917

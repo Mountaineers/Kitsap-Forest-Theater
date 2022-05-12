@@ -6,6 +6,6 @@ category: List
 
 The revered ones who work in the Kitchen.
 
-| Years | Person |
+| Active Years | Person |
 | ----- | ------ |
 | YYYY-current | [Richard Botts](Richard-Botts)

@@ -6,8 +6,11 @@ category: List
 
 Custodians of Kitsap Forest Theater History
 
-* Caretaker Fellow 19??-20??
-* [Gala Lindvall](Gala-Lindvall) 20??-current
+
+| Years        | Author |
+| ------------ |  ----- |
+| 19??-20??    | Caretaker Fellow     |
+| 20??-current | [Gala Lindvall](Gala-Lindvall) |
 
 
 ### See Also

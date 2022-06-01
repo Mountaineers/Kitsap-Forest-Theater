@@ -4,7 +4,7 @@
 
 - [Main KFT web site](https://www.foresttheater.com/)
 - [Info / History](https://mountaineers.github.io/Kitsap-Forest-Theater/)
-- [Wiki](/Mountaineers/Kitsap-Forest-Theater/wiki)
+- [Wiki](//github.com/Mountaineers/Kitsap-Forest-Theater/wiki)
 
 ### About
 

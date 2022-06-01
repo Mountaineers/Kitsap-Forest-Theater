@@ -2,6 +2,12 @@
 
 ### Web sites
 
-- [Main](https://www.foresttheater.com/)
-- [History](https://mountaineers.github.io/Kitsap-Forest-Theater/)
+- [Main KFT web site](https://www.foresttheater.com/)
+- [Info / History](https://mountaineers.github.io/Kitsap-Forest-Theater/)
+- [Wiki](/Mountaineers/Kitsap-Forest-Theater/wiki)
 
+### About
+
+- this repository contains two branches:
+    - `main`, which is this one
+    - `gh-pages`, which is the source code for the Info/History site

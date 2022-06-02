@@ -14,6 +14,7 @@ title: Electric
 - [2022 Email from Scott Eby](../Person/Scott-Eby/2022-06-01-Email)
 - [2013 Electrical Notes by Greg Brown](../Person/Greg-Brown/2013-01-14-Email)
 - [2002 Electrical Infrastructure Upgrade](2002-Phase1.2)
+- [1993 Utility Ditch](https://github.com/Mountaineers/Kitsap-Forest-Theater/tree/gh-pages/reference/1993-Utility-Ditch.pdf)
 
 
 ## History

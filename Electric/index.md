@@ -10,7 +10,7 @@ title: Electric
 
 ## References
 
-- [Kitsap Buildings](../reference/Buildings.pdf)
+- [Kitsap Buildings](https://github.com/Mountaineers/Kitsap-Forest-Theater/blob/gh-pages/reference/Buildings.pdf)
 - [2022 Email from Scott Eby](../Person/Scott-Eby/2022-06-01-Email)
 - [2013 Electrical Notes by Greg Brown](../Person/Greg-Brown/2013-01-14-Email)
 - [2002 Electrical Infrastructure Upgrade](2002-Phase1.2)

@@ -1,6 +1,8 @@
 ---
 title: Scott Eby
+category: Person
 categories:
+    Person
 ---
 <!--img src="20YY.jpeg" style="width: 40%;" align="right"-->
 # Scott Eby

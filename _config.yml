@@ -24,3 +24,5 @@ defaults:
 exclude:
   - Gemfile
   - Gemfile.lock
+  - maps
+  - reference

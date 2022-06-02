@@ -6,7 +6,7 @@ categories:
     - Chair
     - Committee
 ---
-<!--img src="/Kitsap-Forest-Theater/img/20YY-Gala-Lindvall.jpeg" style="width: 40%;" align="right"-->
+<!--img src="20YY-Gala-Lindvall.jpeg" style="width: 40%;" align="right"-->
 
 # Person
 

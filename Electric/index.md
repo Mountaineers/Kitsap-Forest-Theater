@@ -1,5 +1,7 @@
 ---
 title: Electric
+categories:
+    - Utility
 ---
 # Electric
 
@@ -35,12 +37,19 @@ title: Electric
     + Grounding: (2) rods 6' apart
     + Overcurrent protection: 125A
     + Conduit: (3) 2" schedule 40 PVC, one in use.
-
+- Theater
+    + Panel:
+    + Feeder: ~1,400' of AWG ___ wire in __ conduit
+    + Grounding: 
+    + Overcurrent Protection: 60A
+    + Conduit:
 
 ## References
 
 - [Kitsap Buildings](https://github.com/Mountaineers/Kitsap-Forest-Theater/blob/gh-pages/reference/Buildings.pdf)
-- [2022 Email from Scott Eby](../Person/Scott-Eby/2022-06-01-Email)
+- 2022 Email thread: Electrical at the theater
+    + [Gregory Brown](../Person/Greg-Brown/2022-06-02-Email)
+    + [Scott Eby](../Person/Scott-Eby/2022-06-01-Email)
 - [2013 Electrical Notes by Greg Brown](../Person/Greg-Brown/2013-01-14-Email)
 - [2002 Electrical Infrastructure](2002-Phase1.2)
 - [1993 Utility Ditch](https://github.com/Mountaineers/Kitsap-Forest-Theater/tree/gh-pages/reference/1993-Utility-Ditch.pdf)

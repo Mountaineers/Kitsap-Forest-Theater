@@ -1,12 +1,12 @@
 ---
-title: Building Template
-category: Stub
+title: Gardner's Gallery
+category: Building
 categories:
   - Storage
   - Utility
   - Lodging
 ---
-# Building Template
+# Gardner's Gallery
 
 - Name(s)
 - Description

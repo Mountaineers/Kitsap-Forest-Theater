@@ -1,15 +1,15 @@
 ---
-title: Building Template
-category: Stub
+title: Toutle
+category: Building
 categories:
-  - Storage
   - Utility
-  - Lodging
 ---
-# Building Template
+
+# Toutle
 
 - Name(s)
-- Description
+  + Restrooms
+  + Flushing restrooms
 - Location
 - Purpose
 - Events

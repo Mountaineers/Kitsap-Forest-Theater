@@ -1,16 +1,16 @@
 ---
-title: Building Template
-category: Stub
+title: Harriet's Hangout
+category: Building
 categories:
   - Storage
   - Utility
-  - Lodging
 ---
-# Building Template
+# Harriet's Hangout
 
 - Name(s)
 - Description
 - Location
+  + Near the Theater
 - Purpose
 - Events
     - Constructed: YYYY

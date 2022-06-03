@@ -8,7 +8,7 @@ categories:
 # Greg Brown
 ### Names
 ### Events
-- First year at KFT: YYYY
+- First year at KFT: 1973
 - Death Year: (if applicable)
 
 {% include roles.html %}
@@ -16,5 +16,8 @@ categories:
 ### More Info
 ### See Also
 ### History
+#### 2013
+- 2013-01-14 Email [Re: Electrical System](2013-01-14-Email)
+
 
 If sections are missing from a person please add it and cite the source. If the source is personal knowledge, cite it with your name and date. Or send it to [Matt Simerson](https://meanylodge.github.io/Person/Matt-Simerson/) to post.

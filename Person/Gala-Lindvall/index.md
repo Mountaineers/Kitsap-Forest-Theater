@@ -23,4 +23,7 @@ categories:
 ### See Also
 ### History
 
+#### 2022
+- [Background on water](2022-06-02-Water), email 2022-06-02
+
 If sections are missing from a person please add it and cite the source. If the source is personal knowledge, cite it with your name and date. Or send it to [Gala Lindvall](Gala-Lindvall) to post.

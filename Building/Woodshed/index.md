@@ -20,4 +20,6 @@ categories:
     - Constructed: YYYY
     - Expanded: YYYY
 
+<img src="scale-woodshed.png">
+
 # History

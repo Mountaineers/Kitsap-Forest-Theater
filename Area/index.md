@@ -17,7 +17,7 @@ category: List
     + Cascade Dorm
     + [Yurt](../Building/Yurt)
         * Yurt shed
-    + Concessions
+    + [Concession Stand](../Building/Concession-Stand)
 - Prop Garage
     + Theater work shed
     + Bixby

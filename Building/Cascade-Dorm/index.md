@@ -1,22 +1,22 @@
 ---
-title: Olympic Dorm
+title: Cascade Dorm
 category: Building
 categories:
   - Lodging
 ---
-# Olympic Dorm
+# Cascade Dorm
 
 - Name(s)
 - Description
-  + 62' x 12' C-shaped building
+    - 21' x 37' split in half
 - Location
-  + Beyond the [Cabin](../Cabin)
 - Purpose
-  + Lodging
+    - Lodging
 - Events
     - Constructed: YYYY
     - Expanded: YYYY
 
-<img src="scale-olympic.png">
+<img src="scale-cascade.png">
 
 # History
+

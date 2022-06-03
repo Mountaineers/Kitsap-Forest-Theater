@@ -17,6 +17,8 @@ categories:
     - Constructed: 1918
     - Restoration: 2002
 
+<img src="scale-kitsap-cabin.png">
+
 ### History
 
 #### 2002

@@ -61,6 +61,22 @@ categories:
 
 The "big dig" happened - there is an empty conduit that is going down to the theater. I don't think they upgraded the electrical down to the theater after the upgraded electrical at the cabin - but I don't remember. <sup>[gl]</sup>
 
+### Before the Big Dig<sup>[gl]</sup>
+
+- Theater
+    - Panel: 
+    - Feeder: AWG #6 direct burial @ 240V
+    - Grounding: earth, at [Toutle](../Building/Toutle) and theater.
+
+### Before the 6-gage
+
+- Theater
+    + Panel: 
+    + Feeder: 1kVa transformer, ~1,900' of AWG #10 wire @ 480V strung from trees.
+    + Grounding: water pipe
+    + Overcurrent Protection: 60A
+    + Conduit: 3/4" black poly
+
 
 [gb]: ../Person/Greg-Brown
 [gl]: ../Person/Gala-Lindvall

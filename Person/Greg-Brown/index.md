@@ -4,7 +4,7 @@ category: Person
 categories:
     - Active
 ---
-<!--img src="20YY.jpeg" style="width: 40%;" align="right"-->
+<!--img src="2022-Greg.jpeg" style="width: 40%;" align="right"-->
 # Greg Brown
 ### Names
 ### Events

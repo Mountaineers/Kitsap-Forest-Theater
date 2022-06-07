@@ -6,7 +6,7 @@ categories:
     - Chair
     - Committee
 ---
-<!--img src="20YY-Gala-Lindvall.jpeg" style="width: 40%;" align="right"-->
+<!--img src="2022-Gala.jpeg" style="width: 40%;" align="right"-->
 
 # Person
 
@@ -15,7 +15,7 @@ categories:
 
 ### Events
 - Birth Year:
-- First year at KFT: 19YY
+- First year at KFT: 1987
 
 {% include roles.html %}
 ### Known For

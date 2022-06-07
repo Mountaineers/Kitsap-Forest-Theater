@@ -13,7 +13,7 @@ categories:
 - Purpose
     - Lodging
 - Events
-    - Constructed: YYYY
+    - Constructed: before 1973
     - Expanded: YYYY
 
 <img src="scale-cascade.png">

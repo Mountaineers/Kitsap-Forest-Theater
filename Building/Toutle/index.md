@@ -18,7 +18,7 @@ categories:
 - Purpose
     - Utility
 - Events
-    - Constructed: YYYY
+    - Constructed: Before 1973
     - Expanded: YYYY
 
 <img src="scale-toutle.png">

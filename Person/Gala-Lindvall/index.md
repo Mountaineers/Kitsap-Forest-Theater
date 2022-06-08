@@ -6,7 +6,7 @@ categories:
     - Chair
     - Committee
 ---
-<!--img src="2022-Gala.jpeg" style="width: 40%;" align="right"-->
+<img src="2022-Gala.jpeg" style="width: 40%;" align="right">
 
 # Person
 

@@ -13,14 +13,22 @@ categories:
 
 - Service Panel
     + Panel: 320A @ 240V AC, Square D type QO
-        * Location: East wall of the Woodshed tool room
+        * Location: East wall of the [Woodshed](../Building/Woodshed) tool room
+    + Feeder: 
     + Grounding: (2) copper rods, 6' apart
-- Main Lodge
+- [Kitsap Cabin](../Building/Kitsap-Cabin)
     + Panel: 100A @ 240V AC
     + Feeder: AWG #1 THWN, 70' in 2" schedule 40 PVC
     + Grounding: 2' deep ring of AWG #2 Copper around the building
     + Overcurrent protection: 100A
-- Well house
+- [Bathroom](../Building/Toutle)
+    + Panel: 100A @ 240V AC
+        * Location: outside of South wall
+    + Feeder: 455' of AWG #2/0 THWN
+    + Grounding: (2) rods 6' apart
+    + Overcurrent protection: 125A
+    + Conduit: (3) 2" schedule 40 PVC, one in use.
+- [Well house](../Building/Well-House)
     + Panel: 60A @ 240V
     + Feeder: 265' of AWG #4 THWN in 2" schedule 40 PVC
     + Grounding: 1 grounding rod
@@ -30,16 +38,9 @@ categories:
         * (1) 20A outlets
         * (1) 20A heating
         * (1) 10A pump motor
-- Bathroom
-    + Panel: 100A @ 240V AC
-        * Location: outside of South wall
-    + Feeder: 455' of AWG #2/0 THWN
-    + Grounding: (2) rods 6' apart
-    + Overcurrent protection: 125A
-    + Conduit: (3) 2" schedule 40 PVC, one in use.
 - Theater
     + Panel:
-    + Feeder: ~1,400' of AWG ___ wire in __ conduit
+    + Feeder: ~1,400' of AWG ___ wire in ___ conduit
     + Grounding: 
     + Overcurrent Protection: 60A
     + Conduit:

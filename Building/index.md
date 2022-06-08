@@ -7,7 +7,7 @@ category: List
 
 - [Kitsap Cabin](./Kitsap-Cabin)
     + [Woodshed](./Woodshed)
-    + Sapling
+    + [Sapling](./Sapling)
     + [Olympic Dorm](./Olympic-Dorm)
     + Pit Toilet #1 (womens)
     + Pit Toilet #2 (mens)
@@ -17,16 +17,18 @@ category: List
     + [Cascade Dorm](./Cascade-Dorm)
     + [Yurt](./Yurt)
         * Yurt shed
+- Trailhead Area
     + [Concession Stand](./Concession-Stand)
-- [Prop Garage](./Prop-Garage)
-    + Theater work shed
+    + [Prop Garage](./Prop-Garage)
+    + [Theater work shed](./Theater-Work-Shed)
     + [Bixby Cabin](./Bixby-Cabin)
 - Theater / Stage
     + [Sound Shack / Greg's Gazebo](./Sound-Shack)
+    + Pit Toilets #3
+    + Stage
+- Backstage
     + [Harriet's Hangout](./Harriets-Hangout)
     + [Gardner's Gallery](./Gardners-Gallery)
-    + Stage
-    + Pit Toilets #3
 
 <!-- 
 <ul style="list-style: none;">

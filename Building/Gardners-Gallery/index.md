@@ -4,29 +4,44 @@ category: Building
 categories:
   - Storage
   - Utility
-  - Lodging
 ---
 # Gardner's Gallery
 
 - Name(s)
-    - Hen House
 - Description
-    - 68' x ~10-12'
+    - 68' x 20', in 5 sections
     - Rooms
         - Theater Tool Room
-        - Sets / Prop Storage
+        - Prop Garage
         - Sound / Tool Room
-        - Women's Dressing Room
-        - Player's Lumber Storage
+        - Women's Dressing Room / Hen House
+        - Lumber Storage
+    * Woodframed construction on concrete slab foundation.
+    * Houses theater main electrical box.
 - Location
     - Theater
 - Purpose
     - Theater Tool Room
     - Women's Dressing Room
+    - set building material storage
+    - Workspace
+    - Tool, sound prop and theater supplies.
 - Events
-    - Constructed: YYYY
-    - Expanded: YYYY
+    - Constructed: 1975
+    - Expanded: 1991
 
 <img src="scale-gardners.png">
 
 # History
+
+#### 2018
+
+- Roof needs to be done again by professional volunteer to replace all with new plywood and new shingles. The upper portion was replaced by a professional volunteer and the quality is much better.
+
+#### 2013
+
+- New roof joists installed, new plywood, and new shingles.
+
+#### 2012
+
+- Volunteers spent three full-day work parties tearing off the lower roof section of the building and replacing some of the rotten boards, and re-roofing with rolled roofing.

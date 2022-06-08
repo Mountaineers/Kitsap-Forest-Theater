@@ -4,17 +4,18 @@ category: Person
 categories:
     - Active
 ---
-<!--img src="2022-Greg.jpeg" style="width: 40%;" align="right"-->
+<img src="2022-Greg.jpeg" style="width: 40%;" align="right">
 # Greg Brown
 ### Names
 ### Events
 - First year at KFT: 1973
-- Death Year: (if applicable)
 
-{% include roles.html %}
+<!-- {% include roles.html %} -->
 ### Known For
-### More Info
-### See Also
+- [Greg's Gazebo](../../Building/Sound-Shack)
+
+<!-- ### More Info -->
+<!-- ### See Also -->
 ### History
 #### 2013
 - 2013-01-14 Email [Re: Electrical System](2013-01-14-Email)

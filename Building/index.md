@@ -11,7 +11,7 @@ category: List
     + [Olympic Dorm](./Olympic-Dorm)
     + Pit Toilet #1 (womens)
     + Pit Toilet #2 (mens)
-- [Caretaker's Cabin](./Caretakers-Cabin)
+- [Flett / Caretaker's Cabin](./Flett-Cabin)
     + [Well House](./Well-House)
     + [Toutle](./Toutle) - Flush Toilets
     + [Cascade Dorm](./Cascade-Dorm)
